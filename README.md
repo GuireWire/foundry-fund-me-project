@@ -1,10 +1,17 @@
 # Foundry Fund Me
 
-This is a section of the Cyfrin Solidity Course.
+This is a section of the Cyfrin Solidity Course. Specifically Course 3 Section 2.
+
+## Deployed Contracts
+
+Sepolia testnet:
+FundMe contract - 0x079455BD4B93118D3f9fEc7cdf979279806a0fa1
+
 
 *[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
 
 - [Foundry Fund Me](#foundry-fund-me)
+  - [Deployed Contracts](#deployed-contracts)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
